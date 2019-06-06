@@ -1,12 +1,6 @@
-composer.phar
-config.php
-/.idea/
 dropdowndemo.js
 
 # generated files
-log.txt
-/vendor/
-/cache/
 node_modules/
 bundle.js
 bundle.css
