@@ -44,6 +44,6 @@
   },
   "dependencies": {
     "luxon": "^0.3.0",
-    "popper.js": "^1.12.9"
+    "popper.js": "^1.16.0"
   }
 }
